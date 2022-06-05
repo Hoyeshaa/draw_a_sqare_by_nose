@@ -1,0 +1,28 @@
+body{
+    background-color: black;
+    
+}
+
+.heading{
+    width: 100%;
+    font-family: cursive;
+    font-size: 22px;
+    margin: 0;
+    color: black;
+}
+.footer{
+    position: fixed;
+    background-color: aqua;
+    color: black;
+    font-family: monospace;
+    font-size: 15px;
+    width: 100%;
+  bottom: 0px;
+  text-align: center;
+}
+
+canvas{
+    border: 5px solid powderblue;
+    box-shadow: 5px 5px 5px palevioletred;
+    border-radius: 20px;
+}
